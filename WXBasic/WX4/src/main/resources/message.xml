@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<ToUserName><![CDATA[ohf7Y1ZDH5zjAxRGBUwfDN_onhTw]]></ToUserName>
+	<FromUserName><![CDATA[gh_d2672b7d3ae6]]></FromUserName>
+	<CreateTime>1550300450774</CreateTime>
+	<MsgType><![CDATA[music]]></MsgType>
+	<Music>
+		<Title><![CDATA[亲爱的路人]]></Title>
+		<Description><![CDATA[多听音乐 心情棒棒 嘻嘻?]]></Description>
+		<MusicUrl><
+			![CDATA[http://www.kugou.com/song/20qzz4f.html?frombaidu#hash=20C16B9CCCCF851D1D23AF52DD963986&album_id=0]
+			]></MusicUrl>
+		<HQMusicUrl><![CDATA[http://www.kugou.com/song/20qzz4f.html?frombaidu#hash=20C16B9CCCCF851D1D23AF52DD963986&album_id=0]]></HQMusicUrl>
+	</Music>
+</xml>
